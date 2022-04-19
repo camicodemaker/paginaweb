@@ -1,0 +1,14 @@
+h1 {
+color: blue;
+font-size: 26 px;
+font-weight: bold;
+}
+
+.heading {
+background-color: pink;
+border: 3px solid black;
+}
+
+#subtitle {
+font-family: Arial, Helvetica, sans-serif;
+}
